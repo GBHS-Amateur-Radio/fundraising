@@ -5,5 +5,5 @@ Fundraising research, planning, and documentation for GBHS Amateur Radio Club pr
 ## Approaches
 
  1.  Grants
- 2.  Sponsorships / support
+ 2.  Sponsorships / Support
  3.  Club-Designed Products 
