@@ -2,7 +2,7 @@
 
 Fundraising research, planning, and documentation for GBHS Amateur Radio Club projects.
 
-## Directions
+## Approaches
 
  1.  Grants
  2.  Sponsorships / support
